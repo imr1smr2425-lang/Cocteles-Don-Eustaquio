@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Cócteles Don Eustaquio</title>
+        <link></link>
+        <description>Un
+            espacio dedicado al arte de la mixología y los cócteles.</description>
+        <language>es</language>
+        <item>
+            <title>La historia de la mixología</title>
+            <link></link>
+            <guid></guid>
+            <pubDate>Mon, 02 Nov 2026 10:00:00 +0100</pubDate>
+            <description>Descubre los orígenes y la evolución del arte de preparar cócteles.</description>
+        </item>
+        <item>
+            <title>Los cócteles más famosos</title>
+            <link></link>
+            <guid></guid>
+            <pubDate>Tue, 03 Nov 2026 10:00:00 +0100</pubDate>
+            <description>Conoce algunos de los cócteles más conocidos y sus ingredientes.</description>
+        </item>
+        <item>
+            <title>Galería relaccionada al mundo de la Mixología</title>
+            <link></link>
+            <guid></guid>
+            <pubDate>Wed, 04 Nov 2026 10:00:00 +0100</pubDate>
+            <description>Recursos multimedia que permiten vivir la experiencia de la mixología</description>
+        </item>
+    </channel>
+</rss>
