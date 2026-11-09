@@ -33,16 +33,18 @@ Breve descripción del sitio web y de su temática.
 - Canal RSS.
 ## Validación
 ### HTML
-![Resultado de validación HTML](img/validacion-html.png)
+![Resultado de validación HTML](img/validacionHTML.png)
 ### CSS
-![Resultado de validación CSS](img/validacion-css.png)
+![Resultado de validación CSS](img/validacionCSS.png)
 ### RSS
-![Resultado de validación RSS](img/validacion-rss.png)
+![Resultado de validación RSS](img/validaciónXML.png)
 ## Dificultades encontradas
 Describe al menos tres dificultades reales:
-1. Primera dificultad y cómo se resolvió.
-2. Segunda dificultad y cómo se resolvió.
-3. Tercera dificultad y cómo se resolvió.
+1. La primera dificultad fue mas bien un mal entendido, que se ve refflejado en los commits, comencé el proyecto de arriba hacia abajo sin leer el documento entero al principio, por lo tanto, cuando ya tenía casi todo el proyecto terminado, llegue a la sección de los commits y git, asi que para cumplir con esos requisitos tuve que hacer commits artificiales poniendo y quitando manualmente los elementos html y haciendo commits de estos pasos, por eso los tiempos son irreales.
+2. En la galería con el uso de "usemap" y "map", las coordenadas me costaron bastante y desistí, utilice la IA para que me calculase las coordenadas y las pegue.
+3. Al hacer la validación de mis paginas webs, tuve muchos errores a la hora de insertar las imagenes con el width="300px" y height="auto", ya que estoy acostumbrado a usar css y pensaba que se debia indicar el formato y la altura, pero no es necesario, simplemente era dejarlo en width="300" y no poner height, fue mas bien una pequeña confusion.
+4. Con los subtitulos use una IA especial a la que le pasabas el video y te generaba los subtitulos en el idioma que prefieras, tuve problemas porque no veía los subtitulos cuando los visualizaba desde mi maquina local, pero luego al usar el live server, vi que este error se solucionaba.
+5. El enlace del video era muy aprecido al error 4, en local youtube me rechazaba la conexion pero en live server lo aceptaba.
 ## Decisiones técnicas
 Explica brevemente:
 - Los archivos estan organizados tal y como se especificó en la documentación.
@@ -52,3 +54,5 @@ Explica brevemente:
 - Las rutas relativas las he hecho como cualquier mortal las haría, miras tu proyecto y la jerarquía de carpetas que tiene y pones en img/ejemplo.jpeg.
 - He linkeado todas las partes de la pagina web a una misma hoja de estilos para que cuando vaya a editarla, deba de aplicarse el cambio a todas las paginas, cuando empezemos con css, probablemente empezare con el uso de id y class
 ## Fuentes y licencias
+[Historia de la Coctelería](https://bonviveur.com/es/actualidad/origenes-e-historia-de-la-cocteleria)
+[Origen de la Coctelería](https://dkristal.es/conoce-el-origen-de-la-cocteleria/)
